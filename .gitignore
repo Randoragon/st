@@ -1,3 +1,4 @@
 # Ignore executables and redundant object files
 st
 *.o
+config.h
