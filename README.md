@@ -2,6 +2,9 @@
 
 My build of st, with focus on productivity and keyboard-driven workflow.
 
+**NOTE** Some time ago I migrated away from st. This build should still work
+fine, but it's not actively maintained anymore.
+
 ## Features
 
 - transparency (need a third-party compositor)
